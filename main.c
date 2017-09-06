@@ -5,6 +5,13 @@
 #define CALS_PER_GR_FAT 9
 
 int main() {
+//    printf("lore\\m ipsem text?\n");
+//    printf("lor\"em ipsem text?\n");
+//    printf("lor\bem ipsem text?\n");
+//    printf("lor\rem ipsem text?\n");
+//    printf("lor\aem ipsem text?\n");
+//    printf("lor\tem ipsem text?\n");
+
     int calories_from_protein;
     int calories_from_carbs;
     int calories_from_fat;
